@@ -1,5 +1,5 @@
 ### BOAS VINDAS AO MEU PERFIL  
-*Meu nome é Vinicius S.H.S*
+**Meu nome é Vinicius S.H.S**
 _estou cursando o ensino médio_
 🏎️
 -história 
