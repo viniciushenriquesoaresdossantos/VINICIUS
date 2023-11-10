@@ -5,6 +5,7 @@
 _estou cursando o ensino médio_
 🏎️
 <p></p>
--história 
+-estou estudando no alura
+-me desenvolvendo em JavaScript 
 ![](https://images.app.goo.gl/eQWgwXtkP4Pb4Mcb7)
 ![Perfil Vinicius S.H.S]https://github.com/viniciushenriquesoaresdossantos/VINICIUS/edit/main/README.md
