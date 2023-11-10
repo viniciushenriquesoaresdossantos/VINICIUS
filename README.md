@@ -2,7 +2,7 @@
 <p></p>
 **Meu nome é Vinicius S.H.S**
 <p></p>
-_estou cursando o ensino médio_
+_ estou cursando o ensino médio _
 🏎️
 <p></p>
 -estou estudando no alura
